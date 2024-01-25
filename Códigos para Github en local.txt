@@ -1,0 +1,24 @@
+Códigos para Github en local
+
+Abrir la carpet --> cd [dirección de la carpeta] 
+Para crear un repositorio --> git init
+
+Revisar el estado del repositorio/carpeta --> git status
+añadir los repositorios que no se haya guardado --> git add .
+añadir los archivos con la misma extensión --> git add * . [extensión]
+
+Guardar y almacenar los datos --> git commit -m "[mensaje del cambio]"
+	-m es para poner un mensaje
+
+Limpiar la terminal --> clear
+
+agregar repositorio online en uno offline --> git remote add origin [enlace]
+					  --> git push -u origin master
+
+
+
+
+
+
+
+
